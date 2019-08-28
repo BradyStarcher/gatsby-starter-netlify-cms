@@ -7,7 +7,7 @@ description: >
   student book store application that will allow students to buy, sell, and
   trade books online without a middleman.
 featuredpost: true
-featuredimage: /img/book-photo.png
+featuredimage: /img/img_e3123.jpg
 tags:
   - books
 ---
