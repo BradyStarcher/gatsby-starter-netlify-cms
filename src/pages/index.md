@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: StudentXBooks!
 image: /img/img_e3123.jpg
-heading: StudentXBooks!
+heading: StudentXBooks
 subheading: Future of Book Handling
 mainpitch:
   title: What is StudentXBooks?
